@@ -1,0 +1,25 @@
+.count-down{
+    padding: 1rem;
+}
+
+.count-down .watch{
+    display: flex;
+    font-size: 2.4em;
+    font-weight: 900;
+}
+
+.count-down .watch .numbers{
+    margin-right: 0.5rem;
+}
+
+.count-down .controls{
+    display:  flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.count-down .controls button{
+    padding:0.5rem  1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}

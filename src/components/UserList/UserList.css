@@ -1,0 +1,13 @@
+.user-list {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.user {
+  padding: 1rem 0.5rem;
+  background-color: rgb(138, 138, 138);
+  border-radius: 5px;
+  flex:1;
+}

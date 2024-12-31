@@ -1,0 +1,25 @@
+.stop-watch{
+    padding: 1rem;
+}
+
+.stop-watch .watch{
+    display: flex;
+    font-size: 2.4em;
+    font-weight: 900;
+}
+
+.stop-watch .watch .numbers{
+    margin-right: 0.5rem;
+}
+
+.stop-watch .controls{
+    display:  flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.stop-watch .controls button{
+    padding:0.5rem  1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
